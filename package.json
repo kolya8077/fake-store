@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "fake-stote",
   "version": "0.1.0",
   "private": true,
-  "homepage": "goit-react-hw-08-phonebook",
+  "homepage": "fake-stote",
   "dependencies": {
     "@chakra-ui/react": "^2.4.9",
     "@emotion/react": "^11.10.5",
