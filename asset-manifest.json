@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-stote/static/css/main.3b619201.css",
+    "main.js": "/fake-stote/static/js/main.b51298b5.js",
+    "index.html": "/fake-stote/index.html",
+    "main.3b619201.css.map": "/fake-stote/static/css/main.3b619201.css.map",
+    "main.b51298b5.js.map": "/fake-stote/static/js/main.b51298b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b619201.css",
+    "static/js/main.b51298b5.js"
+  ]
+}
